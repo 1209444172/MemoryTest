@@ -18,7 +18,5 @@ public class MainActivity2 extends AppCompatActivity {
             }
         });
         PendingOrderManager.getInstance(MainActivity2.this);
-        //finish();
-
     }
 }
